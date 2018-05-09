@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5f47d52-fabf-4453-81d5-e280e994f570" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design/ex43_test_Tom.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Learn_Ruby_the_HARD_WAY_2018.iml" afterPath="$PROJECT_DIR$/.idea/Learn_Ruby_the_HARD_WAY_2018.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design/ex43.rb" afterPath="$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design/ex43.rb" />
     </list>
@@ -55,7 +57,8 @@
     <SUITE FILE_PATH="coverage/Learn_Ruby_the_HARD_WAY_2018@ex26.coverage" NAME="ex26 Coverage Results" MODIFIED="1522394267506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/26.Congratulations_Take_A_Test" MODULE_NAME="Learn_Ruby_the_HARD_WAY_2018" />
     <SUITE FILE_PATH="coverage/Learn_Ruby_the_HARD_WAY_2018@ex40test2tom.coverage" NAME="ex40test2tom Coverage Results" MODIFIED="1523384106891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/40.Modules_Classes_And_Objects" MODULE_NAME="Learn_Ruby_the_HARD_WAY_2018" />
     <SUITE FILE_PATH="coverage/Learn_Ruby_the_HARD_WAY_2018@ex40_testtom3.coverage" NAME="ex40.testtom3 Coverage Results" MODIFIED="1523385172045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/40.Modules_Classes_And_Objects" MODULE_NAME="Learn_Ruby_the_HARD_WAY_2018" />
-    <SUITE FILE_PATH="coverage/Learn_Ruby_the_HARD_WAY_2018@ex43.coverage" NAME="ex43 Coverage Results" MODIFIED="1523466089736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design" MODULE_NAME="Learn_Ruby_the_HARD_WAY_2018" />
+    <SUITE FILE_PATH="coverage/Learn_Ruby_the_HARD_WAY_2018@ex43_test_Tom.coverage" NAME="ex43_test_Tom Coverage Results" MODIFIED="1523972326784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design" MODULE_NAME="Learn_Ruby_the_HARD_WAY_2018" />
+    <SUITE FILE_PATH="coverage/Learn_Ruby_the_HARD_WAY_2018@ex43.coverage" NAME="ex43 Coverage Results" MODIFIED="1523897153918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design" MODULE_NAME="Learn_Ruby_the_HARD_WAY_2018" />
     <SUITE FILE_PATH="coverage/Learn_Ruby_the_HARD_WAY_2018@tom14.coverage" NAME="tom14 Coverage Results" MODIFIED="1522156401372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14.PromptingAndPassing" MODULE_NAME="Learn_Ruby_the_HARD_WAY_2018" />
     <SUITE FILE_PATH="coverage/Learn_Ruby_the_HARD_WAY_2018@ArrayPublicMethods.coverage" NAME="ArrayPublicMethods Coverage Results" MODIFIED="1522147589149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Learn_Ruby_the_HARD_WAY_2018" />
     <SUITE FILE_PATH="coverage/Learn_Ruby_the_HARD_WAY_2018@tom4.coverage" NAME="tom4 Coverage Results" MODIFIED="1522149336307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.More_Variables_and_Printing" MODULE_NAME="Learn_Ruby_the_HARD_WAY_2018" />
@@ -67,18 +70,36 @@
     <favorites_list name="Learn_Ruby_the_HARD_WAY_2018" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ex43.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design/ex43.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="ex43.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design/ex43.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="740">
+                  <caret line="74" column="36" lean-forward="false" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="ex43_test_Tom.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design/ex43_test_Tom.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="17" column="55" lean-forward="false" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,7 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/6.String_and_text/tom5.rb" />
         <option value="$PROJECT_DIR$/7.More_Printing/tom6.rb" />
         <option value="$PROJECT_DIR$/8.Printing_printing/tom8.rb" />
         <option value="$PROJECT_DIR$/9.Priting_priting_priting/tom9.rb" />
@@ -144,8 +164,14 @@
         <option value="$PROJECT_DIR$/41.Learning_to_Speak_Object_Oriented/ex41.rb" />
         <option value="$PROJECT_DIR$/42.Is_A_Has-A_Objects_and_Classes/ex42.rb" />
         <option value="$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design/ex43.rb" />
+        <option value="$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design/ex43_test_Tom.rb" />
       </list>
     </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -154,10 +180,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="643" />
-    <option name="y" value="23" />
-    <option name="width" value="1041" />
-    <option name="height" value="813" />
+    <option name="x" value="22" />
+    <option name="y" value="388" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -176,6 +202,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,12 +219,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="split vert&#9;ACTION&#9;SplitVertically&#10;split&#9;ACTION&#9;SplitVertically&#10;split ver&#9;ACTION&#9;SplitVertically&#10;split v&#9;ACTION&#9;SplitVertically&#10;split verticaly&#9;null&#9;null&#10;split &#9;ACTION&#9;SplitVertically" />
+    <property name="SearchEverywhereHistoryKey" value="split vert&#9;ACTION&#9;SplitVertically&#10;split vertical&#9;ACTION&#9;SplitVertically&#10;split&#9;ACTION&#9;SplitVertically&#10;split ver&#9;ACTION&#9;SplitVertically&#10;split v&#9;ACTION&#9;SplitVertically&#10;split verticaly&#9;null&#9;null&#10;split &#9;ACTION&#9;SplitVertically" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -223,25 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.ex43">
-    <configuration name="ex40.testtom3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Learn_Ruby_the_HARD_WAY_2018" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/40.Modules_Classes_And_Objects" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/40.Modules_Classes_And_Objects/ex40.testtom3.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-    </configuration>
+  <component name="RunManager" selected="Ruby.ex43_test_Tom">
     <configuration name="ex40testtom4" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Learn_Ruby_the_HARD_WAY_2018" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -314,20 +330,38 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/43.Basic_Object_Oriented_Analysis_and_Design/ex43.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
+    <configuration name="ex43_test_Tom" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Learn_Ruby_the_HARD_WAY_2018" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/43.Basic_Object_Oriented_Analysis_and_Design" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/43.Basic_Object_Oriented_Analysis_and_Design/ex43_test_Tom.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.ex40.testtom3" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.ex40testtom4" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.ex41" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.ex42" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.ex43" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.ex40testtom4" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.ex41" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.ex42" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.ex43" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.ex43_test_Tom" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.ex43" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.ex42" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.ex41" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.ex40testtom4" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.ex40.testtom3" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.ex43_test_Tom" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.ex43" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.ex42" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.ex41" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.ex40testtom4" />
       </list>
     </recent_temporary>
   </component>
@@ -405,23 +439,28 @@
       <workItem from="1523463209219" duration="1627000" />
       <workItem from="1523465486513" duration="635000" />
       <workItem from="1523553087070" duration="699000" />
-      <workItem from="1523633462796" duration="653000" />
+      <workItem from="1523633462796" duration="1757000" />
+      <workItem from="1523635524977" duration="327000" />
+      <workItem from="1523894581829" duration="1420000" />
+      <workItem from="1523896448198" duration="1683000" />
+      <workItem from="1523898289171" duration="1531000" />
+      <workItem from="1523900113039" duration="1578000" />
+      <workItem from="1523971993519" duration="497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75361000" />
+    <option name="totallyTimeSpent" value="83501000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="643" y="23" width="1041" height="813" extended-state="0" />
-    <editor active="true" />
+    <frame x="22" y="388" width="1440" height="873" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17517518" sideWeight="0.48430493" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13519314" sideWeight="0.48430493" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1545961" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23700121" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40934843" sideWeight="0.5156951" order="2" side_tool="true" content_ui="tabs" />
@@ -459,14 +498,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/40.Modules_Classes_And_Objects/ex40testtom.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/40.Modules_Classes_And_Objects/ex40.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
@@ -811,13 +842,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design/ex43.rb">
+    <entry file="file://$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design/ex43_test_Tom.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="17" column="55" lean-forward="false" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/43.Basic_Object_Oriented_Analysis_and_Design/ex43.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="74" column="36" lean-forward="false" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
